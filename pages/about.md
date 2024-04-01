@@ -14,14 +14,10 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Welcome to Sheilla SPUS Memories! This GitHub repository is dedicated to preserving and sharing cherished memories at St. Paul University Surigao. Whether you're an alumni, current student, or simply curious about the SPUS experience, this repository serves as a digital archive of our shared journey.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Join us in reliving the moments that have shaped our memories at SPUS. From campus events to classroom adventures, from friendships formed to lessons learned, let's celebrate the unique spirit and traditions in SPUS.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Feel free to contribute your own memories, photos, stories, or any other content that encapsulates the essence of SPUS life.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Connect with us and share your memories as we continue to honor the legacy of St. Paul University Surigao.
